@@ -54,5 +54,3 @@ detector.train(epochs=50)
 - Open for pull requests
 - Report issues on GitHub
 
-## License
-MIT License
